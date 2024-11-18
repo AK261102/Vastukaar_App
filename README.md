@@ -31,7 +31,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
 
-   git clone https://github.com/Ayush76a/Vastukaar_App.git
+   git clone https://github.com/AK261102/Vastukaar_App.git
 
    cd Vastukaar_App
 
