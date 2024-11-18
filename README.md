@@ -1,4 +1,4 @@
-# Vastukaar App
+# Vastukaar App 1
 Vastukaar is an *Inventory and Stock Management Solution* designed to help businesses manage products in real time, streamline their inventory processes, and enhance operational efficiency. The app provides robust features such as authentication, dashboard access, and a user-friendly interface for managing stock and inventory.
 
 ## App link 
